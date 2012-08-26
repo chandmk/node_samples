@@ -6,5 +6,6 @@ node_samples
 Http Extensions
 ---------------
 
-[http://bit.ly/MolcMd]: Chrome Http Extensions
-[http://bit.ly/LdJBSW]: Firefox live headers
+- [http://bit.ly/MolcMd]: Chrome Http Extensions
+
+- [http://bit.ly/LdJBSW]: Firefox live headers
